@@ -9,10 +9,12 @@ angular cli is a tool to help you around developement of Angular applications.
 Command- 'ng'
 
 ## TypeScript
-1.strong typing
-2.object-oriented features
-3.compile time errors
-4.great tooling
+<ul>
+	<li>1.strong typing</li>
+	<li>2.object-oriented features</li>
+	<li>3.compile time errors</li>
+	<li>4.great tooling</li>
+	</ul>
 
 to install TypeScript-
 $npm install -g typescript
