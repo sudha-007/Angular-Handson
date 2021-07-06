@@ -1,14 +1,14 @@
 # Angular-Handson
 Cognizant angular-handson
 
-#Node and NPM
+## Node and NPM
 npm is Node package manager, it comes embedded when someone installs node.
 
-#Angular CLI
+## Angular CLI
 angular cli is a tool to help you around developement of Angular applications.
 Command- 'ng'
 
-#TypeScript
+## TypeScript
 1.strong typing
 2.object-oriented features
 3.compile time errors
