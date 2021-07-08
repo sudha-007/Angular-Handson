@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <script src="" async defer></script>
+        <div>
+        <form>
+        Name: <input type="text" [(ngModel)]="employee.name" #name="ngModel">{{name.value}}<br>
+        <button style="margin-top:20px" (click)="login()" class="btn btn-primary">Submit</button>
+        </form>
+        <h2 style="color: green" *ngIf="flag1">Details Submitted</h2>
+        </div>
+    </body>
+</html>
