@@ -1,0 +1,15 @@
+
+<div class="container">
+<h3 class="text text-primary">{{title}}</h3>
+<app-login *ngIf="flag" (eventEmitter)="hideLogin($event)"></app-login>
+
+<app-home *ngIf="!flag" ></app-home>
+
+
+
+</div>
+
+
+
+
+
