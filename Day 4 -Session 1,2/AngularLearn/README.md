@@ -1,33 +1,3 @@
-
-# Angular-Handson
-Cognizant angular-handson<br>
-
-## Node and NPM
-npm is Node package manager, it comes embedded when someone installs node.
-
-## Angular CLI
-angular cli is a tool to help you around developement of Angular applications.<br>
-Command- 'ng'
-
-## TypeScript
-<ol>
-	<li>strong typing</li>
-	<li>object-oriented features</li>
-	<li>compile time errors</li>
-	<li>great tooling</li>
-	</ol>
-
-to install TypeScript-<br>
-$npm install -g typescript
-<br>
-TypeScript files are first transpiled into JavaScript files then they are run using node.<br>
-to transpile .ts file-<br>
-$tsc fileName.ts<br>
-$dir --to show all the files in current folder<br>
-	fileName.ts 	filename.js<br>
-$node fileName.js
-
-
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
@@ -54,3 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
